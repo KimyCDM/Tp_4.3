@@ -217,4 +217,3 @@ npc.verify_death()
 npc.information()
 hero.backpack.backpack_info()
 
-
